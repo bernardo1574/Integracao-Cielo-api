@@ -1,0 +1,79 @@
+[
+    {
+        "name": "developercielo/api-3.0-php",
+        "version": "v1.2.1",
+        "version_normalized": "1.2.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/DeveloperCielo/API-3.0-PHP.git",
+            "reference": "40dd1a00e32d1709db8ba0fd385a744d28b1ab3f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/DeveloperCielo/API-3.0-PHP/zipball/40dd1a00e32d1709db8ba0fd385a744d28b1ab3f",
+            "reference": "40dd1a00e32d1709db8ba0fd385a744d28b1ab3f",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6"
+        },
+        "time": "2018-01-11T18:03:53+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Cielo": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "Integração com a API 3.0 da Cielo",
+        "homepage": "https://github.com/DeveloperCielo/API-3.0-PHP"
+    },
+    {
+        "name": "igorescobar/jquery-mask-plugin",
+        "version": "v1.14.1",
+        "version_normalized": "1.14.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/kamihouse/jQuery-Mask-Plugin.git",
+            "reference": "678a7df1f0bb275ce53f365b91af99d86850978d"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/kamihouse/jQuery-Mask-Plugin/zipball/678a7df1f0bb275ce53f365b91af99d86850978d",
+            "reference": "678a7df1f0bb275ce53f365b91af99d86850978d",
+            "shasum": ""
+        },
+        "time": "2016-04-27T16:16:55+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Igor Escobar",
+                "email": "blog@igorescobar.com",
+                "homepage": "https://about.me/igorescobar",
+                "role": "Developer"
+            },
+            {
+                "name": "Thiago Pereira Rosa",
+                "email": "thiagor@engineer.com",
+                "homepage": "http://coderi.com.br",
+                "role": "Contributor"
+            }
+        ],
+        "description": "A jQuery Plugin to make masks on form fields and html elements.",
+        "homepage": "https://github.com/igorescobar/jQuery-Mask-Plugin",
+        "keywords": [
+            "jquery",
+            "mask",
+            "plugin"
+        ]
+    }
+]
